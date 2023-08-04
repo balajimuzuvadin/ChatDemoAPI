@@ -1,0 +1,53 @@
+[
+    {
+    "PartyRK":"DSRFGHDSFHDFGTHDFGJDFGHJ",
+    "FirstName":"Raja",
+    "LastName":"Smith",
+    "Street":"Kerkstraat",
+    "StreetNumber":"23",
+"PolicyNumber" : "60064970",
+    "City":"Antwerp",
+    "PostalCode":"2000",
+    "LastInboundCall":"23-07-2023",
+    "Phone Number":"",
+    "Email":"John@smiht.com",
+    "ClientSince":"03-04-2019",
+    "MissingClientInformation":"Phone Number",
+    "Possiblebadinformation":"We got an email bounce when sending out the latest renewal communication",
+    "FinancialSituation":"Client has not paid all his invoices for Policy 60064970. Therefor he is in Dunning for Policy 60064970. He is in the step in which we withdraw his coverages. If the client doesn't pay 41,89 euro by 14-08-2023, the next step will be the cancellation of his policy"
+},
+{
+    "PartyRK":"DSRFGHDSFHDFGTHDFGJDFGHJ",
+    "FirstName":"Balaji",
+    "LastName":"Smith",
+    "Street":"Kerkstraat",
+    "StreetNumber":"23",
+"PolicyNumber" : "60064971",
+    "City":"Chennai",
+    "PostalCode":"2000",
+    "LastInboundCall":"24-07-2023",
+    "Phone Number":"",
+    "Email":"balaji@smiht.com",
+    "ClientSince":"03-04-2019",
+    "MissingClientInformation":"Phone Number",
+    "Possiblebadinformation":"We got an email bounce when sending out the latest renewal communication",
+    "FinancialSituation":"Client has not paid all his invoices for Policy 60064971. Therefor he is in Dunning for Policy 60064971. He is in the step in which we withdraw his coverages. If the client doesn't pay 41,89 euro by 14-08-2023, the next step will be the cancellation of his policy"
+},
+{
+    "PartyRK":"DSRFGHDSFHDFGTHDFGJDFGHJ",
+    "FirstName":"mani",
+    "LastName":"c",
+    "Street":"asdads",
+    "StreetNumber":"23",
+"PolicyNumber" : "60064972",
+    "City":"Madurai",
+    "PostalCode":"2000",
+    "LastInboundCall":"24-07-2023",
+    "Phone Number":"",
+    "Email":"mani@smiht.com",
+    "ClientSince":"03-04-2019",
+    "MissingClientInformation":"Phone Number",
+    "Possiblebadinformation":"We got an email bounce when sending out the latest renewal communication",
+    "FinancialSituation":"Client has not paid all his invoices for Policy 60064972. Therefor he is in Dunning for Policy 60064972. He is in the step in which we withdraw his coverages. If the client doesn't pay 41,89 euro by 14-08-2023, the next step will be the cancellation of his policy"
+}
+]

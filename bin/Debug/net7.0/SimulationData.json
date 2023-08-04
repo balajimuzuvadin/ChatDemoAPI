@@ -1,0 +1,69 @@
+[   
+        {
+            "NewSimulationExplanation":"The below premiums are per coverage, so need to be summed up to give the global Policy premium. These premiums are valid if John Smith would start a new policy today for the same vehicle at NN. This simulation can be used to compare to his actual policy and to calculate upsell opportunities",    
+            "NewSimulationForExistingPolicy":"60064970",  
+            "NewSimulationDate":"24-07-2023",   
+            "paymentTerm": "Year",   
+            "PolicyNumber" : "60064970",
+            "details": [   
+                {   
+                    "coverage": "Civil liability (Vehicle)",   
+                    "premiumIncludingTaxes": 375.97   
+                },   
+                {  
+                    "coverage": "Mini Omnium",
+                    "premiumIncludingTaxes": 237.28 
+                },  
+                {
+                    "coverage": "Civil Liability (Trailer)",
+                    "premiumIncludingTaxes": 83.08
+                }
+            ]
+    
+        },
+        {
+            "NewSimulationExplanation":"The below premiums are per coverage, so need to be summed up to give the global Policy premium. These premiums are valid if John Smith would start a new policy today for the same vehicle at NN. This simulation can be used to compare to his actual policy and to calculate upsell opportunities",    
+            "NewSimulationForExistingPolicy":"60064970",  
+            "NewSimulationDate":"24-07-2023",   
+            "paymentTerm": "Year",   
+            "PolicyNumber" : "60064971",
+            "details": [   
+                {  
+                    "coverage": "Omnium With Deductible of 400 euros", 
+                    "premiumIncludingTaxes": 930.10   
+                },    
+                {   
+                    "coverage": "Omnium With Deductible of 600 euros",   
+                    "premiumIncludingTaxes": 867.88   
+                },   
+                {    
+                    "coverage": "Omnium With Deductible of 800 euros",   
+                    "premiumIncludingTaxes": 730.85
+                }
+            ]
+    
+        },
+        {
+            "NewSimulationExplanation":"The below premiums are per coverage, so need to be summed up to give the global Policy premium. These premiums are valid if John Smith would start a new policy today for the same vehicle at NN. This simulation can be used to compare to his actual policy and to calculate upsell opportunities",    
+            "NewSimulationForExistingPolicy":"60064970",  
+            "NewSimulationDate":"24-07-2023",   
+            "paymentTerm": "Year",   
+            "PolicyNumber" : "60064972",
+            "details": [   
+                {
+                    "coverage": "Assistance in Belgium",
+                    "premiumIncludingTaxes": 87.57
+                },
+                {
+                    "coverage": "Driver's Coverage",  
+                    "premiumIncludingTaxes": 80.56   
+                },
+                {
+                    "coverage": "Car Sharing",    
+                    "premiumIncludingTaxes": 46.37  
+                }
+            ]
+    
+        }
+    
+    ]

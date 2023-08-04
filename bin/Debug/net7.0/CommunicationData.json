@@ -1,0 +1,23 @@
+[
+    {
+      "Direction": "Incoming",
+      "Type": "Information Request",
+      "Date": "21-07-2023",
+      "PolicyNumber": "60064972",
+      "ShortSummary": "Reminder of the client for the same request: What are my coverages ? When is the renewal?"
+    },
+    {
+      "Direction": "Incoming",
+      "Type": "Mutation Request",
+      "Date": "22-07-2023",
+      "PolicyNumber": "60064971",
+      "ShortSummary": "Request to remove Assistance in Belgium Coverage because he is already paying for this through his Europ Assistance policy"
+    },
+    {
+      "Direction": "Outcoming",
+      "Type": "Mutation Request",
+      "Date": "23-07-2023",
+      "PolicyNumber": "60064970",
+      "ShortSummary": "New Specific conditions of the policy have been sent to the client"
+    }
+  ]

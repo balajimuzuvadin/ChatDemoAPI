@@ -1,0 +1,17 @@
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\ProjectWebAPI.exe
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\ClientData.json
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\CommunicationData.json
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\SimulationData.json
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\VehicleData.json
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\ProjectWebAPI.dll
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\ProjectWebAPI.deps.json
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\ProjectWebAPI.runtimeconfig.json
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\ProjectWebAPI.pdb
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\Microsoft.OpenApi.dll
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\Newtonsoft.Json.dll
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\72075\Desktop\ProjectWebAPI\bin\Debug\net7.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

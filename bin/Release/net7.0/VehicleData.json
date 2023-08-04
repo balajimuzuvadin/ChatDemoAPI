@@ -1,0 +1,118 @@
+[{
+    "Channel": "ING",
+    "Label": "ING",
+    "PolicyNumber": "60064970",
+    "PolicyType": "CAR",
+    "InsuranceProduct": "car",
+    "TermsAndConditions": "CARP2V2",
+    "ProductName": "car",
+    "totalPremiumIncludingTaxes": "780.00",
+    "PolicyStartDate": "24-06-2022",
+    "PolicyEndDate": "",
+    "PromoCode": "Promocode 'Summer 2022' was valid till 24-07-2023. The client is now paying the full price",
+    "Coverages": [
+      {
+        "Coverage": "Driver's coverage",
+        "premiumIncludingTaxes": "62.88"
+      },
+      {
+        "Coverage": "Premium protection",
+        "premiumIncludingTaxes": "47.40"
+      },
+      {
+        "Coverage": "Assistance in Belgium",
+        "premiumIncludingTaxes": "87.24"
+      },
+      {
+        "Coverage": "Legal protection (Vehicle)",
+        "premiumIncludingTaxes": "41.16"
+      },
+      {
+        "Coverage": "Mini Omnium",
+        "premiumIncludingTaxes": "110.16"
+      },
+      {
+        "Coverage": "Civil liability (Vehicle)",
+        "premiumIncludingTaxes": "431.16"
+      }
+    ]
+  },
+  {
+    "Channel": "ING",
+    "Label": "ING",
+    "PolicyNumber": "60064971",
+    "PolicyType": "CAR",
+    "InsuranceProduct": "car",
+    "TermsAndConditions": "CARP2V2",
+    "ProductName": "car",
+    "totalPremiumIncludingTaxes": "780.00",
+    "PolicyStartDate": "24-06-2022",
+    "PolicyEndDate": "",
+    "PromoCode": "Promocode 'Summer 2022' was valid till 24-07-2023. The client is now paying the full price",
+    "Coverages": [
+      {
+        "Coverage": "Driver's coverage",
+        "premiumIncludingTaxes": "234.88"
+      },
+      {
+        "Coverage": "Premium protection",
+        "premiumIncludingTaxes": "23.40"
+      },
+      {
+        "Coverage": "Assistance in Belgium",
+        "premiumIncludingTaxes": "82347.24"
+      },
+      {
+        "Coverage": "Legal protection (Vehicle)",
+        "premiumIncludingTaxes": "234.16"
+      },
+      {
+        "Coverage": "Mini Omnium",
+        "premiumIncludingTaxes": "232.16"
+      },
+      {
+        "Coverage": "Civil liability (Vehicle)",
+        "premiumIncludingTaxes": "423431.16"
+      }
+    ]
+  },
+  {
+    "Channel": "ING",
+    "Label": "ING",
+    "PolicyNumber": "60064972",
+    "PolicyType": "CAR",
+    "InsuranceProduct": "car",
+    "TermsAndConditions": "CARP2V2",
+    "ProductName": "car",
+    "totalPremiumIncludingTaxes": "900.00",
+    "PolicyStartDate": "24-06-2022",
+    "PolicyEndDate": "",
+    "PromoCode": "Promocode 'Summer 2022' was valid till 24-07-2023. The client is now paying the full price",
+    "Coverages": [
+      {
+        "Coverage": "Driver's coverage",
+        "premiumIncludingTaxes": "234.88"
+      },
+      {
+        "Coverage": "Premium protection",
+        "premiumIncludingTaxes": "234.40"
+      },
+      {
+        "Coverage": "Assistance in Belgium",
+        "premiumIncludingTaxes": "234.24"
+      },
+      {
+        "Coverage": "Legal protection (Vehicle)",
+        "premiumIncludingTaxes": "134.16"
+      },
+      {
+        "Coverage": "Mini Omnium",
+        "premiumIncludingTaxes": "12.16"
+      },
+      {
+        "Coverage": "Civil liability (Vehicle)",
+        "premiumIncludingTaxes": "123.16"
+      }
+    ]
+  }
+]
